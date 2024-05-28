@@ -11,10 +11,11 @@ Results, reports, and presentations from my academic and personal projects.
 - **목적**: TNBC subtype의 암을 Luminar A subtype로 변화시키는 약물 찾기 
 - DEG Analysis, Gene Ontology & Enrichment Analysis(DAVID 이용),  유전자 발현 정상화를 위한 약물 탐색
 
-<p align="center">
+<!-- 프로젝트 결과 이미지 -->
+<div align="center">
   <img src="https://github.com/hyondi/Projects_Results_Report/assets/117000633/6b9e9cd1-e12b-4480-84f5-f333702cbee4" alt="BreastCancer_GO_upGene" height="300"/>
   <img src="https://github.com/hyondi/Projects_Results_Report/assets/117000633/464bbdd2-b2c8-4f0c-af61-2deb8c002d52" alt="BreastCancer_Drugs" height="280"/>
-</p>
+</div>
 
 
 <hr/>
